@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 350.0,
+        "description": "lunch",
+        "category": "food",
+        "date": "2026-05-17"
+    },
+    {
+        "amount": 20.0,
+        "description": "bus-transport",
+        "category": "transportation",
+        "date": "2026-05-17"
+    },
+    {
+        "amount": 700.0,
+        "description": "lipstick",
+        "category": "makeup",
+        "date": "2026-05-17"
+    },
+    {
+        "amount": 1600.0,
+        "description": "restro-bill",
+        "category": "food",
+        "date": "2026-05-17"
+    }
+]
